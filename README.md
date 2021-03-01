@@ -1,3 +1,3 @@
 # tp3_calculorc
 
-ESTO ES UN EJEMPLO
+Repositorio que contiene la generación de gráficos para el trabajo práctico número 3 de la materia EyO.
